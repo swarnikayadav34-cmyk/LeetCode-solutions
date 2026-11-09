@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/swarnikayadav34-cmyk/LeetCode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
